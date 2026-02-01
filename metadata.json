@@ -1,0 +1,8 @@
+
+{
+  "name": "VMEDHA – SUDHEE 2026",
+  "description": "A single-page, immersive, futuristic cyberpunk portal for CBIT's premier technical fest and innovation event.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
